@@ -5,16 +5,28 @@ You can make this crockpot meal savory and serve it over rice, or spice it up fo
 ## Ingredients
 
 1 lb thawed chicken breasts
+
 1 12 oz can black beans
+
 1 12 oz can corn
+
 1 tomato
+
 1 medium onion
+
 1 bell pepper
+
 1 block of cream cheese
+
 2 tbsp garlic, minced
+
 2 tbsp chicken bouillon
+
 Salt
+
 Pepper
+
+## Directions
 
 1. Season the chicken breasts with salt and pepper and place in the bottom of the crock pot.
 2. Add the can of beans (drained), the can of corn (drained), the onion (diced), the garlic, and the bouillon.
