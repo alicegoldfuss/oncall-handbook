@@ -7,8 +7,11 @@ While on-call shouldn't a soul-destroying experience, some rotations are heavier
 This is a collection of tips and tricks to get you through your rotation from people who have been there.
 
 I. [Pager Setup](pager_setup.md)
+
 II. [Computer Setup](computer_setup.md)
+
 III. [General Prep](general_prep.md)
+
 IV. [Relaxation](relaxation.md)
 
 Pull requests gladly accepted.
