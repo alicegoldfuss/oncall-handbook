@@ -8,7 +8,7 @@ This is a collection of tips and tricks to get you through your rotation from pe
 
 I. [Pager Setup](pager_setup.md)
 
-II. [Computer Setup](computer_setup.md)
+II. [On-call Kit](on_call_kit.md)
 
 III. [General Prep](general_prep.md)
 
