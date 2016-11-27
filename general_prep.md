@@ -20,3 +20,5 @@ Have contact information readily avaialble for:
 4. Your hardware and software vendors and other service providers.  This should include any necessary contract or customer ID information.
 
 Be prepared to be patient.  Sometimes you will be paged for issues outside your domain of responsibility.  The person paging you is not doing this to annoy you, they are in need of help.  Help them as best you can, forward their incident to the appropriate team.  Do not simply shrug it off as not being your issue.
+
+If you share your living space with anyone be considerate and make sure they are aware of your on-call schedule.
