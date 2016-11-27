@@ -22,6 +22,8 @@ Olive oil
 
 Slice of cheddar cheese (optional)
 
+Aluminum foil or parchment paper (optional, to wrap the sandwich)
+
 ## Directions
 
 1. Break both eggs in a bowl, and beat with a fork until well mixed.
@@ -44,5 +46,8 @@ with a jumble of scrambled eggs.
 
 7. Once fully cooked, place the eggs on one half of the sandwich bun.
 Top with the cheese (if not melted onto the bun) and the other half of the sandwich bun.
+
+8. If you're on the go, wrap the sandwich in aluminum foil or parchment paper
+for easy travel.
 
 At this point, you have a sandwich to eat as you head into work to fix the things!
