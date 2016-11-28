@@ -12,6 +12,8 @@ II. [On-call Kit](on_call_kit.md)
 
 III. [General Prep](general_prep.md)
 
-IV. [Relaxation](relaxation.md)
+IV. [Optimizing Rotations](optimizing_rotations.md)
+
+V. [Relaxation](relaxation.md)
 
 Pull requests gladly accepted.
