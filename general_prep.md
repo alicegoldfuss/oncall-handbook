@@ -8,6 +8,7 @@ Pretend you're about to come down with a debilitating yet temporary disease.
 4. Consider making some food ahead of time (recipes welcome!).
 5. Stock up on easy to make foods. Soups, crackers, pasta, ready-to-bake pizza, frozen veggies.
 6. Get your errands done before you go on-call. Buy pet food, get groceries, pick up the dry cleaning, etc. You may not have time to do it during your rotation, and you don't want to lug all your equipment around while you do it. It is okay to take off thirty minutes early to get these errands done before you go on-call.
+7. Prepare to be unable to complete the most trivial tasks during your "day job" as you may be tired from late night pages or being constantly distracted. Now is a good time to delegate work to colleagues.
 
 Be cognizant of your [SLO](https://en.wikipedia.org/wiki/Service_level_objective)/[RTO](https://en.wikipedia.org/wiki/Recovery_time_objective) and plan any activities accordingly.  That being said, do not abuse the SLO/RTO.  If you have a 15 minute window to respond/acknowledge your page, do so as soon as reasonably possible.  Never intentionally wait until the latest allowed moment.
 
