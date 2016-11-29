@@ -10,7 +10,8 @@ That thing you have to carry around now. This section assumes you are using a ce
 
 ## Android
 
-TODO
+1. Starting with Android Marshmallow, you can enable Do Not Disturb in "Priority Only" mode to only allow notifications from contacts you specify.
+2. In addition to DND mode (or as an alternative, for pre-Marshmallow phones), you can also use [Tasker](http://tasker.dinglisch.net/index.html) to customize notifications: for example, when certain numbers call or text, use Tasker to raise the volume to max (good for heavy sleepers!). There are many ways to do this, but [here is one example](http://www.androidauthority.com/tasker-emergency-calls-399762/)
 
 ## All
 
