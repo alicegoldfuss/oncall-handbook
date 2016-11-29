@@ -24,4 +24,4 @@ Have contact information readily available for:
 
 Be prepared to be patient.  Sometimes you will be paged for issues outside your domain of responsibility.  The person paging you is not doing this to annoy you, they are in need of help.  Help them as best you can, forward their incident to the appropriate team.  Do not simply shrug it off as not being your issue.
 
-If you share your living space with anyone be considerate and make sure they are aware of your on-call schedule.
+If you share your living space with anyone, please be considerate and make sure they are aware of your on-call schedule.
