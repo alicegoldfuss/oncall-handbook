@@ -4,7 +4,7 @@ That thing you have to carry around now. This section assumes you are using a ce
 
 ## Taking Phone Calls
 
-1. Listen with your right ear. Studies have shown that this improves a "can-do" attitude.
+1. Listen with your right ear. Studies have shown that this [improves a "can-do" attitude](https://www.sciencedaily.com/releases/2009/06/090623090705.htm).
 2. If you find your self on conference calls for hours at a time, invest in a high-quality headset that will let you listen with both ears and keeps your hands free. Wireless models like the Logitech H800 keep you from feeling too anchored.
 
 ## iPhone
