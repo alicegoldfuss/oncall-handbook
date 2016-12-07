@@ -22,7 +22,7 @@ That thing you have to carry around now. This section assumes you are using a ce
 
 #### Notify on Assignment
 
-This is a sample notification policy to alert me when an incident is assigned to me.  It's intention is to be "helpfully persistent".  Feel free to tweak as desired.
+This is a sample notification policy to alert me when an incident is assigned to me.  It's intention is to be "helpfully persistent".  This is catered to my order-of-notification preference, as well as my "dexterity issues" during the wee hours.  Feel free to tweak as desired.
 
 | Timeframe   | Method |
 | ----------- | ------ |
@@ -32,7 +32,7 @@ This is a sample notification policy to alert me when an incident is assigned to
 | 2 Minutes   | SMS    |
 | 3 Minutes   | Call   |
 
-A common mistake is to have all notification types trigger at the same time.  Unfortunately, what ends up happening is that in the time that it takes you to start responding to the one notification, another will trigger on top of the first.  You can't acknowledge the Push Notification before the SMS comes in, and while you're trying to type the number to ACK the SMS, the call will come in.
+One common mistake is to have all notification types trigger at the same time.  Unfortunately, what ends up happening is that in the time that it takes you to start responding to the one notification, another will trigger on top of the first.  You can't acknowledge the Push Notification before the SMS comes in, and while you're trying to type the number to ACK the SMS, the call will come in.
 
 It's for this reason that it's better for me to stagger notifications.  Emails don't provide any special notification to me (no beeps or vibrations, tyvm), but some alerts messages may get mangled on a mobile device, and knowing that I can reference the original message elsewhere is helpful to me.
 
