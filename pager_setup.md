@@ -17,3 +17,41 @@ That thing you have to carry around now. This section assumes you are using a ce
 1. Setup your PagerDuty notifications to call you (repeatedly) and give Pagerduty its own unique ringtone. If you only rely on SMS or push notifications, you will constantly worry about missing them (or actually miss them) and your heart will race every time your phone pings. PagerDuty is highly customizable, and a combination of SMS, push, and phone calls is recommended.
 2. Set your PagerDuty push alert sounds and ringtone to be something highly distinct from your regular ringtone, and avoid commonly used or OS-native sounds: this well help avoid confusing a stranger's SMS tone in public with your own on-call notifications.
 3. Make sure your phone is not silenced.
+
+### A Sample Notification Escalation policy
+
+#### Notify on Assignment
+
+This is a sample notification policy to alert me when an incident is assigned to me.  It's intention is to be "helpfully persistent".  This is catered to my order-of-notification preference, as well as my "dexterity issues" during the wee hours.  Feel free to tweak as desired.
+
+| Timeframe   | Method |
+| ----------- | ------ |
+| Immediately | Email  |
+| Immediately | Push   |
+| 1 Minute    | Push   |
+| 2 Minutes   | SMS    |
+| 3 Minutes   | Call   |
+
+One common mistake is to have all notification types trigger at the same time.  Unfortunately, what ends up happening is that in the time that it takes you to start responding to the one notification, another will trigger on top of the first.  You can't acknowledge the Push Notification before the SMS comes in, and while you're trying to type the number to ACK the SMS, the call will come in.
+
+It's for this reason that it's better for me to stagger notifications.  Emails don't provide any special notification to me (no beeps or vibrations, tyvm), but some alerts messages may get mangled on a mobile device, and knowing that I can reference the original message elsewhere is helpful to me.
+
+#### Notify on Resolution
+
+Next, I like being notified immediately if an incident is resolved.  Perhaps an alert was being tested and accidentally went Live, or someone is already working the issue and doesn't need help, but I want to know immediately that action on my part is no longer needed.  If your alerting product of choice supports it, you may consider setting up notification that an incident has been resolved, like so:
+
+| Timeframe   | Method |
+| ----------- | ------ |
+| Immediately | Email  |
+| Immediately | Push   |
+
+#### Notify before going on-call
+
+As much as I like to think that I have my life together, and that everyone else does, too, things happen.  Whether I forget that a rotation is coming up, or that I promised to cover someone's shift, or a colleague is suddenly ill and I'm needed to cover for them, I like being reminded that I'm going on-call.
+
+| Timeframe   | Method |
+| ----------- | ------ |
+| Immediately | Email  |
+| Immediately | Push   |
+| 1 Day       | Email  |
+| 7 Days      | Email  |
