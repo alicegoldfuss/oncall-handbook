@@ -36,10 +36,10 @@ How often the pager fires.
   * **More details**:
     * A frequency of between one per month and one per two weeks is low impact. A week long shift may not have any call-outs. At this frequency, the **[maximum response time][MRT]** will be a stronger impact to the watch-stander.
     * A frequency of between one per week and one per five days guarantees at least one call-out per week-long shift. Impacts are balanced with the **[maximum response time][MRT]**.
-    * A frequency of between one per five days and one per two days guarantees multiple call-out per week-long shift, which will make it stressful. Consider shorter shifts.
+    * A frequency of between one per five days and one per two days guarantees multiple call-outs per week-long shift, which will make it stressful. Consider shorter shifts.
     * A frequency of between one per day and one per twelve hours allows the possibility of uninterrupted sleep. One to three day shifts may be acceptable, with longer shifts being more guaranteed to involve lost sleep.
     * A frequency of more than one per eight hours means guaranteed lost sleep. A one day shift may be acceptable, but will be hardship duty. 12 hour shifts, more survivable.
-    * Any more often than 1 per 8 hours, and you have a distributed NOC, not an on-call rotation.
+    * Any more often than 1 per 8 hours, and you have a distributed [NOC][NOC], not an on-call rotation.
 
 ### Maximum response time:
 Sometimes called 'time to first work', this is the maximum allowed time for someone receiving a page to
@@ -51,7 +51,7 @@ to be from a network connection.
     * The duration determines the length of errands a watch-stander can perform while on-call.
     * Impact can be lessened if escalating to secondary is destigmatized.
     * Holding both primary and secondary, if used, to the same response time doubles the life disruption for the team.
-    * Not all rotations formally define this. Many informally define it as the "unackowledged escalation" time when an alarm automatically bumps up to the secondary person.
+    * Not all rotations formally define this. Many informally define it as the "unackowledged [escalation][escalation]" time when an alarm automatically bumps up to the secondary person.
 
 ### Average time-to-resolve:
 How long, on average, it takes to resolve a page.
@@ -67,7 +67,7 @@ The number of people involved in the rotation.
   * **Rule of thumb**: The more people in the rotation, the lower the percentage of your non-work life is eaten by on-call.
   * **More details**:
     * For a group of three, expect to be on-call a third of the time.
-    * Due to how life works, expect more shift-swapping or small term overrides for smaller teams than larger.
+    * Due to how life works, expect more [shift-swapping][shift-swapping] or small term [overrides][overrides] for smaller teams than larger.
     * For larger teams, announcing the call schedule at least 6 weeks in advance helps minimize shift-swaps.
     * Long-term leaves, such as extended summer vacations, and medical or parental leaves, can be hard on small teams. Pay more attention to burnout during these times.
 
@@ -88,7 +88,7 @@ How deep the schedule is. Primary + Secondary would be 2 deep. Primary + Seconda
     * If a secondary tier is used, definitely have a framework for how the primary and secondary tiers are supposed to work together.
     * Policies governing how escalations work need to be in place.
     * Tying on-call performance to general job performance may require **[on-call compensation][OCC]** in some jurisdictions.
-    * The terminal tier often expects to never get paged, and getting paged may initiate a post-mortem process to figure out why.
+    * The terminal tier often expects to never get paged, and getting paged may initiate a [post-mortem process][post-mortem] to figure out why.
 
 ### Company paid cellular coverage:
 The company pays for or subsidizes the cell service for people on-call.
@@ -103,4 +103,9 @@ The company pays for or subsidizes the cell service for people on-call.
 [MRT]: #maximum-response-time
 [PF]: #page-frequency
 [OCC]: #on-call-compensation
+[NOC]: glossary/#network-operations-center
+[escalation]: glossary/#escalation
+[overrides]: glossary/#overrides
+[post-mortem]: glossary/#post-mortem
+[shift-swapping]: gloccary/#shift-swapping
 [byod-ca]: http://www.computerworld.com/article/2599121/byod/california-cell-phone-ruling-poses-big-byod-challenge.html
