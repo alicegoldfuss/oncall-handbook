@@ -29,17 +29,20 @@ thumb to go by. *Week* may be a nice round number, but that doesn't always make 
 duration. Here are the variables, with guidance around whether they suggest longer or shorter
 shifts.
 
-* **Page frequency**: How often the pager fires.
+### Page frequency:
+How often the pager fires.
   * **Impact to watch-stander**: Very high. When it goes off, it's a drop-everything emergency no matter where you are.
   * **Rule of thumb**: The more often it goes off, the shorter the shift.
   * **More details**:
-    * A frequency of between one per month and one per two weeks is low impact. A week long shift may not have any call-outs. At this frequency, the  **maximum response time** will be a stronger impact to the watch-stander.
+    * A frequency of between one per month and one per two weeks is low impact. A week long shift may not have any call-outs. At this frequency, the **maximum response time** will be a stronger impact to the watch-stander.
     * A frequency of between one per week and one per five days guarantees at least one call-out per week-long shift. Impacts are balanced with the **maximum response time**.
     * A frequency of between one per five days and one per two days gurantees multiple call-out per week-long shift, which will make it stressful. Consider shorter shifts.
     * A frequency of between one per day and one per twelve hours allows the possibility of uninterrupted sleep. One to three day shifts may be acceptable, with longer shifts being more guaranteed to involve lost sleep.
     * A frequency of more than one per eight hours means guaranteed lost sleep. A one day shift may be acceptable, but will be hardship duty. 12 hour shifts, more survivable.
-    * Any more often than 1 per 8 hours, and you have a distributed NOC, not an on-call rotation. 
-* **Maximum response time**: Sometimes called 'time to first work', this is the maximum allowed time for someone receiving a page to start work on that page. If you're carrying your laptop with you, this is often how far you're allowed to be from network.
+    * Any more often than 1 per 8 hours, and you have a distributed NOC, not an on-call rotation.
+
+### Maximum response time:
+Sometimes called 'time to first work', this is the maximum allowed time for someone receiving a page to start work on that page. If you're carrying your laptop with you, this is often how far you're allowed to be from network.
   * **Impact to watch-stander**: High. Unlike page-frequency, this impacts throughout the shift regardless of how busy it is.
   * **Rule of thumb**: Anything less than an hour will be very hard on parents of kids. Anything less than 15 minutes means the watch-stander is effectively house-bound.
   * **More details**:
@@ -47,13 +50,15 @@ shifts.
     * Impact can be lessened if escalating to secondary is destigmatized.
     * Holding both primary and secondary, if used, to the same response time doubles the life disruption for the team.
     * Not all rotations formally define this. Many informally define it as the "unackowledged escalation" time when an alarm automatically bumps up to the secondary person.
-* **Average time-to-resolve**: How long, on average, it takes to resolve a page.
+
+### Average time-to-resolve: How long, on average, it takes to resolve a page.
   * **Impact to watch-stander**: Medium
   * **Rule of thumb**: This acts as a multiplier for how impactful the **page frequency** is.
   * **More details**:
     * If most call-outs are for small things such as approving change-requests (reading a little and clicking a button), the impact is slight.
     * If the average call-out takes over 30 minutes or so to resolve, each page weighs more than the frequency would otherwise suggest.
-* **Rotation size**: The number of people involved in the rotation.
+
+### Rotation size: The number of people involved in the rotation.
   * **Impact to watch-stander**: Medium
   * **Rule of thumb**: The more people in the rotation, the lower the percentage of your non-work life is eaten by on-call.
   * **More details**:
@@ -61,13 +66,17 @@ shifts.
     * Due to how life works, expect more shift-swapping or small term overrides for smaller teams than larger.
     * For larger teams, announcing the call schedule at least 6 weeks in advance helps minimize shift-swaps.
     * Long-term leaves, such as extended summer vacations, and medical or parental leaves, can be hard on small teams. Pay more attention to burnout during these times.
-* **On-call compensation**: Extra payment for being on-call.
+
+### On-call compensation:
+Extra payment for being on-call.
   * **Impact to watch-stander**: Medium
   * **Rule of thumb**: Paying people extra explicitly for on-call can made harder on-call shifts easier to accept for employees.
   * **More details**:
     * US labor law may call almost everyone salaried-exempt and on-call can be a job duty without extra compensation.
     * Extra money for a hard task makes that task easier 
-* **Number of schedule tiers**: How deep the schedule is. Primary + Secondary would be 2 deep. Primary + Secondary + Management + CIO would be 4 deep.
+
+### Number of schedule tiers:
+How deep the schedule is. Primary + Secondary would be 2 deep. Primary + Secondary + Management + CIO would be 4 deep.
   * **Impact to watch-stander**: Low
   * **Rule of thumb**: The higher the tier an escalation goes, the longer a problem goes unworked.
   * **More details**:
@@ -76,7 +85,9 @@ shifts.
     * Policies governing how escalations work need to be in place.
     * Tying on-call performance to general job performance may require **on-call compensation** in some jurisdictions.
     * The terminal tier often expects to never get paged, and getting paged may initiate a post-mortem process to figure out why.
-* **Company paid cellular coverage**: The company pays for or subsidizes the cell service for people on-call.
+
+### Company paid cellular coverage:
+The company pays for or subsidizes the cell service for people on-call.
   * **Impact to watch-stander**: Low
   * **Rule of thumb**: If you're paying for cell service, response-time improves as watch-standers are more willing to tether to deal with call-outs.
   * **More details**:
