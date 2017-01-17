@@ -103,9 +103,9 @@ The company pays for or subsidizes the cell service for people on-call.
 [MRT]: #maximum-response-time
 [PF]: #page-frequency
 [OCC]: #on-call-compensation
-[NOC]: glossary/#network-operations-center
-[escalation]: glossary/#escalation
-[overrides]: glossary/#overrides
-[post-mortem]: glossary/#post-mortem
-[shift-swapping]: gloccary/#shift-swapping
+[NOC]: glossary#network-operations-center
+[escalation]: glossary#escalation
+[overrides]: glossary#overrides
+[post-mortem]: glossary#post-mortem
+[shift-swapping]: gloccary#shift-swapping
 [byod-ca]: http://www.computerworld.com/article/2599121/byod/california-cell-phone-ruling-poses-big-byod-challenge.html
