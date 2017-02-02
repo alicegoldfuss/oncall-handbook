@@ -41,6 +41,6 @@ for taking care of non-reusable cable ties.
 and any dongles you might need for your laptop if you need to plug into a switch for
 network debugging.
 7. A small flashlight or (better!) a [headlamp](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dtools&field-keywords=headlamp), so you can see into dim spaces in racks.
-8. A printed or handwritten contact card, with phone numbers for your escalation path.
+8. A printed or handwritten contact card, with phone numbers for your escalation path. This could contain colleagues, but also external support or computer parts, or phone records of power utility companies /other infra.
 This can be helpful if the room has poor cell reception but you do have access to a
 landline.
