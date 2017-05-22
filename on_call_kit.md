@@ -43,4 +43,6 @@ network debugging.
 7. A small flashlight or (better!) a [headlamp](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dtools&field-keywords=headlamp), so you can see into dim spaces in racks.
 8. A printed or handwritten contact card, with phone numbers for your escalation path.
 This can be helpful if the room has poor cell reception but you do have access to a
-landline.
+landline. Also make sure to get the number of the onsite security guards.
+After some time they'll want to check if you're still alive, or you might need their help
+(Access to circuit breakers, router rooms. in a larger DC you might also simply lose your way)
