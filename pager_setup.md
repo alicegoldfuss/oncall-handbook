@@ -55,3 +55,12 @@ As much as I like to think that I have my life together, and that everyone else 
 | Immediately | Push   |
 | 1 Day       | Email  |
 | 7 Days      | Email  |
+
+#### (Optional) Group address for email notifications
+
+You might find useful to send email notifications to your regular email address *and* to a group address that you will filter in its own folder. This can serve multiple purposes.
+
+1. When you get paged, especially in the beginning of a shift, this can give you a clue if the problem might be the tail end of a previous problem. This is also helpful if you don't have awesome observability.
+2. As a manager or mindful coworker, it will let you know at a glance who got paged, when, and for what – if your email notifications contain more information than just "SOMETHING BROKE, FIX IT PLS." Of course, you can get that information from e.g. PagerDuty directly; but having it conveniently accessible and searchable in an email folder can be very useful.
+
+If you are on-call, it is crucial that your manager is aware of the burden that it represents (especially if that manager is not part of the rotation). Email notifications can create a good trail that will be usable by your manager, even if they don't even have a PagerDuty account, for instance.
