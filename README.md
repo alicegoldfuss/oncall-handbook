@@ -17,3 +17,5 @@ IV. [Optimizing Rotations](optimizing_rotations.md)
 V. [Relaxation](relaxation.md)
 
 Pull requests gladly accepted.
+
+Forked from https://github.com/alicegoldfuss/oncall-handbook
