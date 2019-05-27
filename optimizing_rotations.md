@@ -4,7 +4,7 @@ If you're in a position to suggest changes to your on-call rotation, here are so
 
 1. If the person on-call does not have a secondary, provide them a secondary.
 2. If the rotation is too small, employees on-call will always feel stressed about being on-call. If the rotation is too large, employees on-call may not have frequent enough interactions with certain systems.
-3. If pages are coming in too frequently and your staff is wiped out, rotate more frequently (daily?) or alternate between primary/secondary on a regular cadence (Foo is the primary on MWFS and secondary on TRS; Bar is the opposite).
+3. If pages are coming in too frequently and your staff is wiped out, rotate more frequently (daily?) or alternate between primary/secondary on a regular cadence (Foo is the primary on Mon/Wed/Fri/Sun and secondary on Tue/Thu/Sat; Bar is the opposite).
 4. If you are changing the number of people in the on-call rotation, make sure that everybody on the team is aware of their new schedule. They may need to move things around in their schedule or swap (if it overlaps with PTO).
 5. Make sure there is a clear way to manage shift swapping if you allow it. Remember that PagerDuty supports overriding primary/secondary.
 6. Find your team's best way to rotate primary and secondary. Some teams prefer a team member to escalate from off-call to secondary to primary to get a feel for the current set of issues in production. Other teams prefer to go from primary down to secondary.
