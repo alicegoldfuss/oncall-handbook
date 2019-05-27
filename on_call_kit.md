@@ -14,6 +14,7 @@ It's helpful to have a checklist that you run through prior to going on-call to 
 8. A hands-free kit for your phone, whether this be the headphones that came with it or a bluetooth earpiece. Make sure you've tested it with your phone in advance of going on-call. It's good to keep your hands available in case you need to call up a colleague or join a conference call.
 9. A smart watch (pebble, Apple watch, etc.) can be helpful for late night alerts. The vibration of a smart watch will wake only you up where an audible alert from your phone might also wake up your partner as well. Have your charger handy just in case.
 10. A small zippable bag to keep all of your on-call kit in (other than your laptop). Your items, such as chargers, should never leave this bag unless you are using them on call. That way you never have to scramble to be ready for on-call.
+11. Consider a 3rd party VPN as well as your company one. Hotels without good MiFi reception and restrictive WiFi policies can be worked round if you can VPN out on a common web port with a 3rd party, then corporate VPN inside that over regular ports.
 
 ## Datacenter kit
 
