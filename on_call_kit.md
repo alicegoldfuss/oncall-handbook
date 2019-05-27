@@ -40,8 +40,9 @@ for taking care of non-reusable cable ties.
 5. A small set of jewelers' screwdrivers (optional, but often comes in handy).
 6. A decent-length ethernet cable (10+ ft),
 and any dongles you might need for your laptop if you need to plug into a switch for
-network debugging.
+network debugging. This may include, but not limited to - [usb to serial](https://www.amazon.com/Aten-Technologies-UC232A-Serial-Adapter/dp/B00006HNF6), [usb extender cable](https://www.amazon.com/AmazonBasics-Extension-Cable-Male-Female/dp/B00NH11R3I/), [power schuko adapters](https://www.amazon.com/Eonvic-IEC-C14-Europe-adapter/dp/B015T1LM92)
 7. A small flashlight or (better!) a [headlamp](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dtools&field-keywords=headlamp), so you can see into dim spaces in racks.
 8. A printed or handwritten contact card, with phone numbers for your escalation path.
+9. Wear proper dress/shoes for datacenter - there should be cold, so pants and sweatshirt with hoodie is always a must. No flops!
 This can be helpful if the room has poor cell reception but you do have access to a
 landline.
