@@ -45,4 +45,6 @@ network debugging. This may include, but not limited to - [usb to serial](https:
 8. A printed or handwritten contact card, with phone numbers for your escalation path.
 9. Wear proper dress/shoes for datacenter - there should be cold, so pants and sweatshirt with hoodie is always a must. No flops!
 This can be helpful if the room has poor cell reception but you do have access to a
-landline.
+landline. Also make sure to get the number of the onsite security guards.
+After some time they'll want to check if you're still alive, or you might need their help
+(Access to circuit breakers, router rooms. in a larger DC you might also simply lose your way)
