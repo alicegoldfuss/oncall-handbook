@@ -14,6 +14,7 @@ It's helpful to have a checklist that you run through prior to going on-call to 
 8. A hands-free kit for your phone, whether this be the headphones that came with it or a bluetooth earpiece. Make sure you've tested it with your phone in advance of going on-call. It's good to keep your hands available in case you need to call up a colleague or join a conference call.
 9. A smart watch (pebble, Apple watch, etc.) can be helpful for late night alerts. The vibration of a smart watch will wake only you up where an audible alert from your phone might also wake up your partner as well. Have your charger handy just in case.
 10. A small zippable bag to keep all of your on-call kit in (other than your laptop). Your items, such as chargers, should never leave this bag unless you are using them on call. That way you never have to scramble to be ready for on-call.
+11. Consider a 3rd party VPN as well as your company one. Hotels without good MiFi reception and restrictive WiFi policies can be worked round if you can VPN out on a common web port with a 3rd party, then corporate VPN inside that over regular ports.
 
 ## Datacenter kit
 
@@ -39,8 +40,11 @@ for taking care of non-reusable cable ties.
 5. A small set of jewelers' screwdrivers (optional, but often comes in handy).
 6. A decent-length ethernet cable (10+ ft),
 and any dongles you might need for your laptop if you need to plug into a switch for
-network debugging.
+network debugging. This may include, but not limited to - [usb to serial](https://www.amazon.com/Aten-Technologies-UC232A-Serial-Adapter/dp/B00006HNF6), [usb extender cable](https://www.amazon.com/AmazonBasics-Extension-Cable-Male-Female/dp/B00NH11R3I/), [power schuko adapters](https://www.amazon.com/Eonvic-IEC-C14-Europe-adapter/dp/B015T1LM92)
 7. A small flashlight or (better!) a [headlamp](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dtools&field-keywords=headlamp), so you can see into dim spaces in racks.
 8. A printed or handwritten contact card, with phone numbers for your escalation path.
+9. Wear proper dress/shoes for datacenter - there should be cold, so pants and sweatshirt with hoodie is always a must. No flops!
 This can be helpful if the room has poor cell reception but you do have access to a
-landline.
+landline. Also make sure to get the number of the onsite security guards.
+After some time they'll want to check if you're still alive, or you might need their help
+(Access to circuit breakers, router rooms. in a larger DC you might also simply lose your way)
