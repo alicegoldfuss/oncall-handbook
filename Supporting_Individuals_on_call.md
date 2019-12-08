@@ -1,14 +1,14 @@
-# Supporting Individuals on call
+# Supporting individuals who have on-call responsibilities
 Thank you for interest in supporting your fellow infrastructure warriors.
 
-Providing support to your on call staff has a major positive impact to the individual on call creating a happy, dedicated, and proud on call employee. In turn, you will get better, faster, and helpful service.  
+Providing support to your on call staff has a major positive impact to the individual who is on call creating a happy, dedicated, and proud on call employee. In turn, you will get better, faster, and helpful service.  
 
 ## Providing Support
 As you can see, supporting the on call worker is important for all involved. Here are some tips to provide support:
 * Be extra nice and kind - The on call individual may be overly stressed, tired, and drained of normal will power to do tasks due to plethora of reasons. If they have an attitude, provide an acceptable amount of slack and respect. Kindness does indeed go a long way.
 * Do NOT submit non-critical cases that are not business impacting. Verify you have reviewed all materials, information, and resources _before_ submitting a critical case to the on call engineer.
 * Be patient - the on call individual may be addressing and researching basic items before reaching out. Likewise, know your escalation options if an appropriate period has been reached.
-* Consider providing positive, constructive feedback if your Human Resources department offers this resource for on-call work that is above and beyond. If this system does not exist, consider a hand written note. On-call, at points, may be a non-appreciative experience.
+* Consider providing positive, constructive feedback if your Human Resources department offers this resource for on-call work that is above and beyond. If this system does not exist, consider a hand written thank you note. On-call, at points, may be a non-appreciative experience.
 
 ### Background of on-call experience
 In order to understand a topic, it is often helpful to get some background on the experience. This section hopes to address the background of an on call engineer.

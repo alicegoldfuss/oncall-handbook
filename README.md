@@ -16,6 +16,6 @@ IV. [Optimizing Rotations](optimizing_rotations.md)
 
 V. [Relaxation](relaxation.md)
 
-VI. [Supporting Individuals On-call](Supporting_Individuals_on_call.md)
+VI. [Supporting Individuals who perform On-call responsibilities](Supporting_Individuals_on_call.md)
 
 Pull requests gladly accepted.
